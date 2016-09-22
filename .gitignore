@@ -21,6 +21,11 @@
 *cache*
 
 # 3rd party library builds
-3rd-party/build-*
+esp8266/esptool
 
+# build artifacts
+esp8266/env
+esp8266/espressif-at-image.bin
+esp8266/micropython-vagrant/.vagrant
+esp8266/micropython-vagrant/firmware-combined.bin
 
