@@ -3,11 +3,11 @@ ESP8266 embedded systems projects
 
 # ESP8266 MicroPython #
 
-* (mem check fail)[http://cholla.mmto.org/esp8266/sdk/examples/mem_error.html]
+* [mem check fail](http://cholla.mmto.org/esp8266/sdk/examples/mem_error.html)
 
 ## building firmware ##
 
-(basic directions)[https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/build-firmware]
+[basic directions](https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/build-firmware)
 
 deviations from directions
 
